@@ -5,6 +5,9 @@ class Telefono(val nombre: String, val marca: String) {
     }
 
     override fun toString(): String {
-        return "$nombre,$marca"
+        println("hola")
+            return "$nombre,$marca"
+
     }
+
 }
