@@ -8,4 +8,8 @@ class Telefono(val nombre: String, val marca: String) {
         estado = true
         println("ENCENDIENDO....")
     }
+    fun apagar(){
+        estado = false
+        println("APAGANDO....")
+    }
 }

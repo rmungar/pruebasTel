@@ -1,3 +1,9 @@
 fun main() {
-    println("Hello World!")
+    val tel = Telefono("Xiaomi", "Redmi")
+    tel.encender()
+
+
+
+
+    tel.apagar()
 }
