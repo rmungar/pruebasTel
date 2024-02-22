@@ -1,5 +1,11 @@
 fun main() {
-    val tel = Telefono("Paco","Xiaomi")
+    val tel = Telefono("Xiaomi", "Redmi")
     val tel2 = Telefono("Raul","Xiaomi")
-    println("hopla")
+    tel.encender()
+
+
+
+
+
+    tel.apagar()
 }
