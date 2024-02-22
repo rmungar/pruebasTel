@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    println("Ven y sana mi dolor")
+    println("Tienes la cura de este amoooor")
 }
