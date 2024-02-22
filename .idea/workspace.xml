@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2a562c0-a043-4c49-91fc-3ba32d3a9c7e" name="Changes" comment="RamaPaco 5">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2024_16_06__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2024_16_06__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_22_02_2024_16_17__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_22_02_2024_16_17__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Telefono.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Telefono.kt" afterDir="false" />
-    </list>
+    <list default="true" id="e2a562c0-a043-4c49-91fc-3ba32d3a9c7e" name="Changes" comment="Encender/Apagar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +13,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -25,17 +22,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RamaPaco 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="RamaPaco 5" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Encender/Apagar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encender/Apagar" />
   </component>
 </project>

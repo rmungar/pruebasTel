@@ -13,8 +13,8 @@ class Telefono(val nombre: String, val marca: String) {
         println("APAGANDO....")
     }
 
-    fun enviar(mensaje:Mensaje){
-        println("has enviado el mensaje de tipo ${mensaje.tipo} con el mensaje: ${mensaje.desc}")
+    fun enviar(mensaje:Mensaje):String{
+        return "has enviado el mensaje de tipo ${mensaje.tipo} con el mensaje: ${mensaje.desc}"
     }
 
     fun recibir(mensaje: Mensaje){
