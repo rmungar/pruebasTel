@@ -15,12 +15,10 @@ class Telefono(val nombre: String, val marca: String) {
 
     override fun toString(): String {
         println("hola")
-            return "$nombre,$marca"
-        }
+        return "$nombre,$marca"
+    }
     fun Contestar():String{
         return "Hola , que tal ?"
-    }
-
     }
 
     fun enviar(mensaje:Mensaje){
@@ -32,4 +30,8 @@ class Telefono(val nombre: String, val marca: String) {
     }
 }
 
-data class Mensaje(val tipo:String, val desc:String)
+data class Mensaje(val tipo:String, val desc:String){
+    override fun toString(): String {
+        return "Un $tipo que contiene: $desc"
+    }
+}
