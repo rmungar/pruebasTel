@@ -16,6 +16,10 @@ class Telefono(val nombre: String, val marca: String) {
     override fun toString(): String {
         println("hola")
             return "$nombre,$marca"
+        }
+    fun Contestar():String{
+        return "Hola , que tal ?"
+    }
 
     }
 
