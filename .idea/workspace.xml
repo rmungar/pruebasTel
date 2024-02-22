@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4fa6f16-ea19-45ea-aaf4-4a2e078d6272" name="Changes" comment="RamaPaco 4">
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="c4fa6f16-ea19-45ea-aaf4-4a2e078d6272" name="Changes" comment="RamaPaco 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "fbatlos"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="78a4160f-83a3-463b-b59d-5c26cd6f631b" />
+        <option name="url" value="https://github.com/rmungar/pruebasTel.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -52,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1708614581599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="RamaPaco 5">
+      <option name="closed" value="true" />
+      <created>1708614680642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708614680642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RamaPaco 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="RamaPaco 4" />
+    <MESSAGE value="RamaPaco 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="RamaPaco 5" />
   </component>
 </project>

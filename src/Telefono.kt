@@ -6,7 +6,6 @@ class Telefono(val nombre: String, val marca: String) {
     fun Contestar():String{
         return "Hola , que tal ?"
     }
-
     fun Colgar():String{
         return "Chao pescao"
     }
