@@ -13,20 +13,21 @@ class Telefono(val nombre: String, val marca: String) {
         println("APAGANDO....")
     }
 
-    override fun toString(): String {
-        println("hola")
-        return "$nombre,$marca"
-    }
-    fun Contestar():String{
-        return "Hola , que tal ?"
-    }
-
     fun enviar(mensaje:Mensaje){
         println("has enviado el mensaje de tipo ${mensaje.tipo} con el mensaje: ${mensaje.desc}")
     }
 
     fun recibir(mensaje: Mensaje){
         println("Acaba de llegar un mensage de tipo ${mensaje.tipo} con el mensaje: ${mensaje.desc}")
+    }
+
+    fun Contestar(){
+        println("Abierto.")
+        println("Hola , que tal ?")
+    }
+
+    override fun toString(): String {
+        return "$nombre,$marca"
     }
 }
 
