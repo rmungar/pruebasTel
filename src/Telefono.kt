@@ -3,4 +3,8 @@ class Telefono(val nombre: String, val marca: String) {
         require(nombre.isNotBlank())
         require(marca.isNotBlank())
     }
+
+    fun Colgar():String{
+        return "Chao pescao"
+    }
 }
